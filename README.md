@@ -46,7 +46,7 @@ Table of contents
         - Logistic Regression
 
  - Week 3
-    - Lesson Topic Optimization
+    - Lesson Topic : Optimization
 
  - Week 4
     - Lesson Topic : Generalization and Sampling
