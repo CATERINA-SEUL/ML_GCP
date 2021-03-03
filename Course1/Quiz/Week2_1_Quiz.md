@@ -14,9 +14,9 @@ A : The team should take time to gather more data because the quality and archit
 
 #### Which of these would be a good way to structure the app (choose all that apply)?
 
-A : 
+A 
     The team should develop one all-encompassing model that will scan the email content, categorize the content, and determine the appropriate team to receive the email.
 
     The team should develop several models, one for each task. They should develop these models from the ground up and not use pre-existing models, to ensure the models are properly trained.
-    
+
     Automatic feature extraction
