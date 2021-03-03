@@ -3,7 +3,7 @@
 
 ### Course 1
 
-#### How Google does Machine Learning
+#### How Google does Machine Learning - [Certificate](https://www.coursera.org/account/accomplishments/verify/BGXNE6FJZPUT)
 
 Table of contents
 
