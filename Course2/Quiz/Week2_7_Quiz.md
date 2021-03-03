@@ -9,8 +9,10 @@ A : The more generalizable the decision boundary, the wider the margin.
 #### 3. Which of the following statements is true about Support Vector Machines (SVM)?
 
 A : Both A and B
-    - Support Vector Machines (SVMs) are a particularly powerful and flexible class of supervised algorithms for both classification and regression. SVM are used for text classification tasks such as category assignment, detecting spam, and sentiment analysis.
-    - SVMs are based on the idea of finding a hyperplane that best divides a dataset into two classes. Support vectors are the data points nearest to the hyperplane, the points of a data set that, if removed, would alter the position of the dividing hyperplane. As a simple example, for a classification task with only two features, you can think of a hyperplane as a line that linearly separates and classifies a set of data. 
+    
+    Support Vector Machines (SVMs) are a particularly powerful and flexible class of supervised algorithms for both classification and regression. SVM are used for text classification tasks such as category assignment, detecting spam, and sentiment analysis.
+    
+    SVMs are based on the idea of finding a hyperplane that best divides a dataset into two classes. Support vectors are the data points nearest to the hyperplane, the points of a data set that, if removed, would alter the position of the dividing hyperplane. As a simple example, for a classification task with only two features, you can think of a hyperplane as a line that linearly separates and classifies a set of data. 
 
 #### 4. What is the significance of kernel transformation?
 

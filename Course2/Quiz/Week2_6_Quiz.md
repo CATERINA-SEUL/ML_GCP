@@ -1,8 +1,9 @@
 #### 1. Decision trees are one of the most intuitive machine learning algorithms. They can be used for which of the following?
 
 A : Both A and B
-    - Classification
-    - Regression
+    
+    Classification
+    Regression
 
 #### 2. In a decision classification tree, what does each decision or node consist of?
 

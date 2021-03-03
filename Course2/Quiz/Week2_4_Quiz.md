@@ -13,13 +13,15 @@ A : A perceptron is a type of linear classifier, i.e. a classification algorithm
 #### 4. What are the steps involved in the Perceptron Learning Process?
 
 A : All of the above
-    - Takes the inputs, multiplies them by their weights, and computes their sum.
-    - Adds a bias factor, the number 1 multiplied by a weight.
-    - Feeds the sum through the activation function.
+    
+    Takes the inputs, multiplies them by their weights, and computes their sum.
+    Adds a bias factor, the number 1 multiplied by a weight.
+    Feeds the sum through the activation function.
 
 #### 5. What are the elements of a perceptron?
 
 A : All of the above
-    - Input function x
-    - Bias b
-    - Activation function
+    
+    Input function x
+    Bias b
+    Activation function

@@ -1,16 +1,18 @@
 #### 1. Which of the following activation functions are used for nonlinearity?
 
 A : All of the above
-    - Sigmoid
-    - Hyperbolic tangent
-    - Tanh
+    
+    Sigmoid
+    Hyperbolic tangent
+    Tanh
 
 #### 2. A single unit for a non-input neuron has ____________________ a/an
 
 A : All of the above
-    - Weighted Sum
-    - Activation function
-    - Output of the activation function
+    
+    Weighted Sum
+    Activation function
+    Output of the activation function
 
 #### 3. If we wanted our outputs to be in the form of probabilities, which activation function should I choose in the final layer?
 

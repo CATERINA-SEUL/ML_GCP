@@ -8,9 +8,10 @@ A : Depending on the problem you are trying to solve, the data you have, explain
 
 #### 3. What is a type of Supervised machine learning model?
 
-A : Both a & b
-    - Regression model.
-    - Classification model.
+A : Both A and B
+    
+    Regression model.
+    Classification model.
 
 #### 4. Which model would you use if your problem required a discrete number of values or classes?
 
