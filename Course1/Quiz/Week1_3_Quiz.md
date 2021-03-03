@@ -13,9 +13,10 @@ A : Cloud video intelligence API
 #### 4. What are the benefits of cloud Speech-to-Text API?
 
 A : All of the above
-    - Let's you perform speech-to-text transcription
-    - Supports speech timestamps
-    - Supports profanity filtering
+
+    Let's you perform speech-to-text transcription
+    Supports speech timestamps
+    Supports profanity filtering
 
 #### 5. What type of actions can be done by Cloud Natural Language API?
 
