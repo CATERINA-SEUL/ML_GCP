@@ -1,7 +1,7 @@
 # Coursera 
 ## Machine Learning with TensorFlow on Google Cloud Platform by. Google Cloud
 
-### Course 1
+### [Course 1](https://github.com/CATERINA-SEUL/ML_GCP/tree/main/Course1)
 
 #### How Google does Machine Learning - [Certificate](https://www.coursera.org/account/accomplishments/verify/BGXNE6FJZPUT)
 
@@ -36,7 +36,7 @@ Table of contents
    
 ----
 
-### Course 2
+### [Course 2](https://github.com/CATERINA-SEUL/ML_GCP/tree/main/Course2)
 
 #### Launching into Mashine Learning
 
