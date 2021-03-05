@@ -85,7 +85,7 @@ Table of contents
       - Exploring and Creating ML Datasets
 ----
 
-### Course 3
+### [Course 3](https://github.com/CATERINA-SEUL/ML_GCP/tree/main/Course3)
 
 #### Introduction to TensorFlow - [Certificate](https://www.coursera.org/account/accomplishments/verify/TCD3YA9U79DT)
 
@@ -139,7 +139,7 @@ Table of contents
 
 ---
 
-### Course 4
+### [Course 4](https://github.com/CATERINA-SEUL/ML_GCP/tree/main/Course4)
 
 #### Feature Engineering - [Certificate](https://www.coursera.org/account/accomplishments/verify/QE5S4XPYAYWA)
 
@@ -188,7 +188,7 @@ Table of contents
 
 ---
 
-### Course 5
+### [Course 5](https://github.com/CATERINA-SEUL/ML_GCP/tree/main/Course5)
 
 #### Art and Science of Machine  - [Certificate](https://www.coursera.org/account/accomplishments/verify/TG7XNBW2KZYC)
 
