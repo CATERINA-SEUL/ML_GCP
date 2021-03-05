@@ -7,7 +7,6 @@ A : Pre-trained models.
 A : Both A and B
 
     Labeled data
-    Flagged data
     Unlabeled data
 
 #### 3. Which of the following are best practices for Data preparation?
