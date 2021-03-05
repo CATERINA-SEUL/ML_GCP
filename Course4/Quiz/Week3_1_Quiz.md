@@ -1,0 +1,20 @@
+#### 1. You are building a model to predict the number of points ("margin") by which Team A will beat Team B in a basketball game.  Your input features are (1) whether or not it it is a home game for Team A (2) average number of points Team A scored in its past 7 games and (3) average number of points Team B scored in its past 7 games.  Which of these is a linear model suitable for machine learning?
+
+A
+    margin = b + w1 * is_home_game + w2 * avg_points_A + w3 * avg_points_B
+    margin = w1 * is_home + w2 * (avg_points_A - avg_points_B)^3
+
+#### 2. Feature crosses are more common in modern machine learning because:
+
+A : Feature crosses memorize, and that is okay only if you have extremely large datasets.
+
+#### 3. The function tf.feature_column.crossed_column requires:
+
+A : A list of categorical or bucketized features
+
+#### 4. You might create an embedding of a feature cross in order to:
+
+A 
+    Create a lower-dimensional representation of the input space
+    Identify similar sets of inputs for clustering
+    Reuse weights learned in one problem in another problem

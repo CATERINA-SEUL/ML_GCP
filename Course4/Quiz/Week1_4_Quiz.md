@@ -1,0 +1,11 @@
+#### 1. What is one-hot encoding?
+
+A : One hot encoding is a process by which categorical variables are converted into a form that could be provided to neural networks to do a better job in prediction.
+
+#### 2. Which of these offers the best way to encode categorical data that is already indexed, i.e. has integers in [0-N]?
+
+A : tf.feature_column.categorical_column_with_identity
+
+#### 3. What do you use the tf.feature_column.bucketized_column function for?
+
+A : To discretize floating point values into a smaller number of categorical bins
